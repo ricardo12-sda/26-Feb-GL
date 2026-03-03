@@ -536,3 +536,5 @@ CrtLocalizationDesigner/Files/Directory.Build.targets
 
 CrtFilterAgent
 CrtTechUserCreatioMaintenance
+UsrYacthRentals/Schemas/UsrTestProcess/descriptor.json
+UsrYacthRentals/Schemas/UsrTestProcess/metadata.json
