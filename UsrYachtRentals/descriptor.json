@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "5dee74cf-4086-408e-ba3d-2a8f96518053",
+    "Name": "UsrYachtRentals",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1772821964000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrYachtRentals.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}

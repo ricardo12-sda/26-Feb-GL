@@ -112,7 +112,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenIdAuth", "OpenIdAuth", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SsoSettings", "SsoSettings", "{4C3855D9-575D-BEE4-537D-E565805A7032}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UsrYacthRentals", "UsrYacthRentals", "{602AA148-8E9F-7F2D-AB98-8413BFF3ACA8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UsrYachtRentals", "UsrYachtRentals", "{602AA148-8E9F-7F2D-AB98-8413BFF3ACA8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XSSProtection", "XSSProtection", "{170A6967-FC07-DEA8-89E9-33783D940DC2}"
 EndProject
@@ -338,7 +338,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SsoSettings", "SsoSettings\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{986775DB-252A-410D-F34E-04492FA39088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsrYacthRentals", "UsrYacthRentals\Files\UsrYacthRentals.csproj", "{2C635623-80A6-C1A9-7DFB-D5DE8CB0F202}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsrYachtRentals", "UsrYachtRentals\Files\UsrYachtRentals.csproj", "{2C635623-80A6-C1A9-7DFB-D5DE8CB0F202}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{56E4E7B8-4F6B-C9BF-6F0E-8966D490F4F9}"
 EndProject
